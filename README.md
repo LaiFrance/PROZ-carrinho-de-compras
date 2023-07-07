@@ -9,3 +9,4 @@ Na aula de hoje, nos dedicamos a criar um carrinho de compras interativo. Aprend
 🔊 Event Listeners: Exploramos a funcionalidade dos event listeners, que nos permite detectar a ocorrência de eventos específicos (como cliques) e executar ações correspondentes em resposta. No caso do carrinho de compras, utilizamos event listeners para acompanhar as interações dos usuários e atualizar dinamicamente o carrinho e o total.
 
 Essas atividades nos ajudaram a entender melhor como criar interações e funcionalidades interativas em uma página da web. 
+![screencapture-laifrance-github-io-PROZ-carrinho-de-compras-2023-07-06-22_13_25](https://github.com/LaiFrance/PROZ-carrinho-de-compras/assets/91226847/14032642-dbca-406c-873a-b2d32e1b631b)
